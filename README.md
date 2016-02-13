@@ -1,2 +1,2 @@
-# Magento-LPMN
-Magento 1.9.2 setup on Linux (Ubuntu LTS) + PHP + MySQL + Nginx
+# Magento-LEMP
+Magento 1.9.2 setup on Linux (Ubuntu 14.04 LTS) + Nginx + MySQL + PHP
